@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
          <div className={styles.hero}>
        <Image 
-                                src="/pexels-photo-4200823.webp"
+                                src="/fifth-station-simon-cyrene-helps-jesus-christ-carry-his-cross-biblical-series_29028-577.webp"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
