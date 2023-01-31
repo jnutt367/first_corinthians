@@ -40,6 +40,13 @@ export default function Home() {
             <button className={styles.button}>NEXT > </button>
        </a>           
           </div>
+  <h1 className={styles.instructions}>
+        &darr; SCROLL DOWN &darr;
+        </h1>
+        <h1 className={styles.instructions}>
+        Touch to Read Chapters 
+        </h1>
+
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2> 1 Paul, called to be an apostle of Christ Jesus by the will of God, &darr;</h2>
