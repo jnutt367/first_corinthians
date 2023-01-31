@@ -16,6 +16,7 @@ export default function Home() {
          I CORINTHIANS
         </h1>
          <div className={styles.hero}>
+           <div className={styles.image}>
        <Image 
                                 src="/illustration-ascension-day-jesus-christ-vector-illustration-biblical-series_29028-743 (1).webp"
                                 alt="Jesus teaching"
@@ -23,6 +24,7 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
+            </div>                      
           <div className={styles.nav}>                
        <a href="https://the-holy-bible.vercel.app/">
             <button className={styles.button}> HOME </button>
