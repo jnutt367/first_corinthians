@@ -26,7 +26,7 @@ export default function Home() {
                               />
             </div>                      
                   <div className={styles.nav}>           
-      <a href="https://acts-zeta.vercel.app/">
+      <a href="https://romans-five.vercel.app/">
              <Image 
                                 src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
                                 alt="Jesus"
