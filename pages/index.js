@@ -34,7 +34,7 @@ export default function Home() {
                   <div className={styles.nav}>           
       <a href="https://romans-five.vercel.app/">
              <Image 
-                                src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
+                                src="/left-arrow.jpg"
                                 alt="Jesus"
                                  height={100}
                                 width={100}
@@ -54,7 +54,7 @@ export default function Home() {
         </a> 
          <a href="https://second-corinthians.vercel.app/">
            <Image 
-                                src="/jean_victor_balin_arrow_orange_right.png"
+                                src="/right-arrow.jpg"
                                 alt="Jesus"
                                  height={100}
                                 width={100}
@@ -66,7 +66,7 @@ export default function Home() {
                </div>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2> 1 Paul, called to be an apostle of Christ Jesus by the will of God, &darr;</h2>
+           <h2  className={styles.chapter}>I Corinthians Chapter I</h2>
             <p> and our brother Sosthenes,
 
 2 To the church of God in Corinth, to those sanctified in Christ Jesus and called to be his holy people, together with all those everywhere who call on the name of our Lord Jesus Christ—their Lord and ours:
