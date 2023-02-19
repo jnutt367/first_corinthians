@@ -26,7 +26,7 @@ export default function Home() {
        <Image 
                                 src="/illustration-ascension-day-jesus-christ-vector-illustration-biblical-series_29028-743 (1).webp"
                                 alt="Jesus teaching"
-                                height={900}
+                                height={1100}
                                 width={2000}
                                 priority
                               />
