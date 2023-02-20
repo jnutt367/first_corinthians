@@ -93,8 +93,9 @@ Christ Crucified Is God’s Power and Wisdom
           </div>
 
           <div className={styles.card}>
-            <h2>2 And so it was with me, brothers and sisters. &darr;</h2>
-            <p> When I came to you, I did not come with eloquence or human wisdom as I proclaimed to you the testimony about God.[a] 2 For I resolved to know nothing while I was with you except Jesus Christ and him crucified. 3 I came to you in weakness with great fear and trembling. 4 My message and my preaching were not with wise and persuasive words, but with a demonstration of the Spirit’s power, 5 so that your faith might not rest on human wisdom, but on God’s power.
+            <h2 className={styles.chapter}>I Corinthians Chapter II</h2>
+            <p> 2 And so it was with me, brothers and sisters. &darr;
+              When I came to you, I did not come with eloquence or human wisdom as I proclaimed to you the testimony about God.[a] 2 For I resolved to know nothing while I was with you except Jesus Christ and him crucified. 3 I came to you in weakness with great fear and trembling. 4 My message and my preaching were not with wise and persuasive words, but with a demonstration of the Spirit’s power, 5 so that your faith might not rest on human wisdom, but on God’s power.
 
 God’s Wisdom Revealed by the Spirit
 6 We do, however, speak a message of wisdom among the mature, but not the wisdom of this age or of the rulers of this age, who are coming to nothing. 7 No, we declare God’s wisdom, a mystery that has been hidden and that God destined for our glory before time began. 8 None of the rulers of this age understood it, for if they had, they would not have crucified the Lord of glory. 9 However, as it is written:
@@ -117,9 +118,9 @@ But we have the mind of Christ.</p>
           <div
             className={styles.card}
           >
-            <h2> The Church and Its Leaders &darr;</h2>
+            <h2 className={styles.chapter}>I Corinthians Chapter III </h2>
             <p>
-           
+           The Church and Its Leaders &darr;
 3 Brothers and sisters, I could not address you as people who live by the Spirit but as people who are still worldly—mere infants in Christ. 2 I gave you milk, not solid food, for you were not yet ready for it. Indeed, you are still not ready. 3 You are still worldly. For since there is jealousy and quarreling among you, are you not worldly? Are you not acting like mere humans? 4 For when one says, “I follow Paul,” and another, “I follow Apollos,” are you not mere human beings?
 
 5 What, after all, is Apollos? And what is Paul? Only servants, through whom you came to believe—as the Lord has assigned to each his task. 6 I planted the seed, Apollos watered it, but God has been making it grow. 7 So neither the one who plants nor the one who waters is anything, but only God, who makes things grow. 8 The one who plants and the one who waters have one purpose, and they will each be rewarded according to their own labor. 9 For we are co-workers in God’s service; you are God’s field, God’s building.
@@ -134,9 +135,9 @@ But we have the mind of Christ.</p>
 
           <div className={styles.card}
           >
-            <h2>The Nature of True Apostleship &darr;</h2>
+            <h2 className={styles.chapter}>I Corinthians Chapter IV </h2>
             <p>
-            
+            The Nature of True Apostleship &darr;
 4 This, then, is how you ought to regard us: as servants of Christ and as those entrusted with the mysteries God has revealed. 2 Now it is required that those who have been given a trust must prove faithful. 3 I care very little if I am judged by you or by any human court; indeed, I do not even judge myself. 4 My conscience is clear, but that does not make me innocent. It is the Lord who judges me. 5 Therefore judge nothing before the appointed time; wait until the Lord comes. He will bring to light what is hidden in darkness and will expose the motives of the heart. At that time each will receive their praise from God.
 
 6 Now, brothers and sisters, I have applied these things to myself and Apollos for your benefit, so that you may learn from us the meaning of the saying, “Do not go beyond what is written.” Then you will not be puffed up in being a follower of one of us over against the other. 7 For who makes you different from anyone else? What do you have that you did not receive? And if you did receive it, why do you boast as though you did not?
@@ -151,8 +152,8 @@ Paul’s Appeal and Warning
           </div>
           <div className={styles.card}
           >
-            <h2> Dealing With a Case of Incest &darr;</h2>
-            <p>
+            <h2 className={styles.chapter}>I Corinthians Chapter V</h2>
+            <p> Dealing With a Case of Incest &darr;
             
           
 5 It is actually reported that there is sexual immorality among you, and of a kind that even pagans do not tolerate: A man is sleeping with his father’s wife. 2 And you are proud! Shouldn’t you rather have gone into mourning and have put out of your fellowship the man who has been doing this? 3 For my part, even though I am not physically present, I am with you in spirit. As one who is present with you in this way, I have already passed judgment in the name of our Lord Jesus on the one who has been doing this. 4 So when you are assembled and I am with you in spirit, and the power of our Lord Jesus is present, 5 hand this man over to Satan for the destruction of the flesh,[a][b] so that his spirit may be saved on the day of the Lord.
@@ -165,8 +166,8 @@ Paul’s Appeal and Warning
           </div>
           <div className={styles.card}
           >
-            <h2>Lawsuits Among Believers &darr;</h2>
-            <p>
+            <h2 className={styles.chapter}>I Corinthians Chapter VI</h2>
+            <p>Lawsuits Among Believers &darr;
             
           
             
@@ -182,8 +183,8 @@ Sexual Immorality
 
           <div className={styles.card}
           >
-            <h2> Concerning Married Life &darr;</h2>
-            <p>
+            <h2 className={styles.chapter}>I Corinthians Chapter VII </h2>
+            <p> Concerning Married Life &darr;
             
           
             
@@ -216,8 +217,8 @@ Concerning the Unmarried
           </div>
           <div className={styles.card}
           >
-            <h2> Concerning Food Sacrificed to Idols &darr;</h2>
-            <p>
+            <h2 className={styles.chapter}>I Corinthians Chapter VII </h2>
+            <p>Concerning Food Sacrificed to Idols &darr;
           
 8 Now about food sacrificed to idols: We know that “We all possess knowledge.” But knowledge puffs up while love builds up. 2 Those who think they know something do not yet know as they ought to know. 3 But whoever loves God is known by God.[a]
 
@@ -230,8 +231,8 @@ Concerning the Unmarried
 
           <div className={styles.card}
           >
-            <h2> Paul’s Rights as an Apostle &darr;</h2>
-            <p>
+            <h2 className={styles.chapter}>I Corinthians Chapter VIII  </h2>
+            <p>Paul’s Rights as an Apostle &darr;
           
            
 9 Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you not the result of my work in the Lord? 2 Even though I may not be an apostle to others, surely I am to you! For you are the seal of my apostleship in the Lord.
@@ -255,8 +256,8 @@ The Need for Self-Discipline
 
           <div className={styles.card}
           >
-            <h2>Warnings From Israel’s History &darr;</h2>
-            <p>
+            <h2 className={styles.chapter}>I Corinthians Chapter IX</h2>
+            <p>Warnings From Israel’s History &darr;
           
            
             
@@ -283,8 +284,8 @@ The Believer’s Freedom
 
           <div className={styles.card}
           >
-            <h2>1 Follow my example, as I follow the example of Christ. &darr;</h2>
-            <p>
+            <h2 className={styles.chapter}>I Corinthians Chapter X </h2>
+            <p>1 Follow my example, as I follow the example of Christ. &darr;
           
            
             
@@ -311,8 +312,8 @@ And when I come I will give further directions.</p>
 
           <div className={styles.card}
           >
-            <h2> Concerning Spiritual Gifts &darr;</h2>
-            <p>
+            <h2 className={styles.chapter}>I Corinthians Chapter XI</h2>
+            <p>Concerning Spiritual Gifts &darr;
           
            
             
@@ -342,8 +343,8 @@ And yet I will show you the most excellent way.
 
           <div className={styles.card}
           >
-            <h2> 13 If I speak in the tongues[a] of men or of angels, but do not have love, &darr;</h2>
-            <p>
+            <h2 className={styles.chapter}>I Corinthians Chapter XII </h2>
+            <p>13 If I speak in the tongues[a] of men or of angels, but do not have love, &darr;
           
            
             
@@ -360,8 +361,8 @@ And yet I will show you the most excellent way.
 
           <div className={styles.card}
           >
-            <h2> Intelligibility in Worship  &darr;</h2>
-            <p>
+            <h2 className={styles.chapter}>I Corinthians Chapter XIII</h2>
+            <p>Intelligibility in Worship  &darr;
           
            
 14 Follow the way of love and eagerly desire gifts of the Spirit, especially prophecy. 2 For anyone who speaks in a tongue[a] does not speak to people but to God. Indeed, no one understands them; they utter mysteries by the Spirit. 3 But the one who prophesies speaks to people for their strengthening, encouraging and comfort. 4 Anyone who speaks in a tongue edifies themselves, but the one who prophesies edifies the church. 5 I would like every one of you to speak in tongues,[b] but I would rather have you prophesy. The one who prophesies is greater than the one who speaks in tongues,[c] unless someone interprets, so that the church may be edified.
@@ -399,8 +400,8 @@ Good Order in Worship
 
           <div className={styles.card}
           >
-            <h2> The Resurrection of Christ  &darr;</h2>
-            <p>
+            <h2 className={styles.chapter}>I Corinthians Chapter XIV </h2>
+            <p>The Resurrection of Christ  &darr;
           
            
            
@@ -442,8 +443,8 @@ If there is a natural body, there is also a spiritual body. 45 So it is written:
 
           <div className={styles.card}
           >
-            <h2>  The Collection for the Lord’s People &darr;</h2>
-            <p>
+            <h2 className={styles.chapter}>I Corinthians Chapter XV</h2>
+            <p>The Collection for the Lord’s People &darr;
           
            
            
