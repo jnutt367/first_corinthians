@@ -64,6 +64,9 @@ export default function Home() {
         </a> 
          
                </div>
+      <p className={styles.fund}>"Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Do everything in love."
+(I Corinthians 13:4-5)
+</p>
         <div className={styles.grid}>
           <div className={styles.card}>
            <h2  className={styles.chapter}>I Corinthians Chapter I</h2>
