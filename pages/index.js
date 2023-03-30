@@ -24,7 +24,7 @@ export default function Home() {
        I CORINTHIANS
         </h1><div className={styles.image}>
        <Image 
-                                src="/mary-mother-jesus-john-beloved-disciple-mary-magdalene-crucifixion_24381-1879.webp"
+                                src="/mystery.gif"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
