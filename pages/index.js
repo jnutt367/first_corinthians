@@ -24,7 +24,7 @@ export default function Home() {
        I CORINTHIANS
         </h1><div className={styles.image}>
        <Image 
-                                src="/heart.gif"
+                                src="/in-space-national-space-day.gif"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
