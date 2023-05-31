@@ -31,8 +31,7 @@ export default function Home() {
                                                   />
                            <iframe width="100%" height="315" src="https://www.youtube.com/embed/7tpewhiwIzo" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-                        /* <iframe width="100%" height="315" src="https://www.youtube.com/embed/yiHf8klCCc4" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>        
-           */ </div>                      
+                        </div>                      
                   <div className={styles.nav}>           
       <a href="https://romans-five.vercel.app/">
              <Image 
