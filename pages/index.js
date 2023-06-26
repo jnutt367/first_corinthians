@@ -23,13 +23,13 @@ export default function Home() {
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/1-corinthians-15-1-19-wordle.webp"
+                                                    src="/risen_30.png"
                                                     alt="blood red wordle"
                                                     height={900}
                                                     width={2000}
                                                     priority
                                                   />
-                           <iframe width="100%" height="315" src="https://www.youtube.com/embed/7tpewhiwIzo" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                          
 
                         </div>                      
                   <div className={styles.nav}>           
@@ -65,7 +65,11 @@ export default function Home() {
         </a> 
          
                </div>
-      <p className={styles.fund}>"No, we declare God’s wisdom, a mystery that has been hidden and that God destined for our glory before time began."
+               <div className={styles.iframe}> 
+ <iframe width="100%" height="315" src="https://www.youtube.com/embed/7tpewhiwIzo" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                                  
+                                  </div>
+                                  
+                                  <p className={styles.parables}>"No, we declare God’s wisdom, a mystery that has been hidden and that God destined for our glory before time began."
 (I Corinthians 2:7)
 </p>
         <div className={styles.grid}>
