@@ -271,7 +271,7 @@
 }
 
 .nav {
-    background-color: #0077ff;
+    background-color: #1338BE;
     color: white;
     opacity: 1;
     padding: 5px;
@@ -294,7 +294,7 @@
 }
 
 .grid {
-    background-color: #0077ff;
+    background-color: #1338BE;
     color: white;
     display: flex;
     align-items: center;
@@ -354,7 +354,7 @@
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
-    background-color: #0077ff;
+    background-color: #1338BE;
     color: white;
     opacity: 0.8;
     opacity: 1;
