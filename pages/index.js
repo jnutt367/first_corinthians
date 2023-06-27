@@ -23,7 +23,7 @@ export default function Home() {
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/risen_30.png"
+                                                    src="/risen_31.png"
                                                     alt="blood red wordle"
                                                     height={900}
                                                     width={2000}
@@ -31,7 +31,11 @@ export default function Home() {
                                                   />
                           
 
-                        </div>                      
+                        </div>
+    <p className={styles.parables}>
+
+               Christians in Corinth were not getting alomg with one another. Paul wrote to them to scold them for their sinful living & teach them how Christians should be acting. In love.                                     
+</p>                                                      
                   <div className={styles.nav}>           
       <a href="https://romans-five.vercel.app/">
              <Image 
@@ -69,9 +73,7 @@ export default function Home() {
  <iframe width="100%" height="315" src="https://www.youtube.com/embed/7tpewhiwIzo" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                                  
                                   </div>
                                   
-                                  <p className={styles.parables}>"No, we declare God’s wisdom, a mystery that has been hidden and that God destined for our glory before time began."
-(I Corinthians 2:7)
-</p>
+                              
         <div className={styles.grid}>
           <div className={styles.card}>
            <h2  className={styles.chapter}>I Corinthians Chapter I</h2>
