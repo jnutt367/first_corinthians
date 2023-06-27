@@ -23,7 +23,7 @@ export default function Home() {
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/risen_31.png"
+                                                    src="/corinthians.png"
                                                     alt="blood red wordle"
                                                     height={900}
                                                     width={2000}
