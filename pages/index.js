@@ -34,7 +34,7 @@ export default function Home() {
                         </div>
     <p className={styles.parables}>
 
-               Christians in Corinth were not getting along with one another & choosing sides. Paul wrote to them to scold them for their sinful living & teach them how Christians should be acting. In love.                                     
+               Christians in Corinth were being divisive & choosing sides. Paul wrote them to scold them for sinful living & teach how Christians should be acting. In love.                                     
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://romans-five.vercel.app/">
