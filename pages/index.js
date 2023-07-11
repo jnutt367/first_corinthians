@@ -39,10 +39,10 @@ export default function Home() {
                   <div className={styles.nav}>           
       <a href="https://romans-five.vercel.app/">
              <Image 
-                                src="/chevron-left.svg"
-                                alt="Jesus"
+                                src="/previous.webp"
+                                alt="prev"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>
@@ -50,19 +50,19 @@ export default function Home() {
         
       <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
               <Image className={styles.arrow}
-                                src="/youtube-logo-png-hd-21.png"
-                                alt="youtube-icon"
+                                src="/upward_pointing.webp"
+                                alt="Home"
                                 height={75}
-                                width={75}
+                                width={90}
                                 priority
                               /> 
        </a>
          <a href="https://second-corinthians.vercel.app/">
            <Image 
-                                src="/chevron-right.svg"
-                                alt="Jesus"
+                                src="/next.webp"
+                                alt="next"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
            
@@ -70,7 +70,7 @@ export default function Home() {
          
                </div>
                <div className={styles.iframe}> 
- <iframe width="100%" height="315" src="https://www.youtube.com/embed/yiHf8klCCc4" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                               
+ <iframe width="100%" height="315" src="https://www.youtube.com/embed/yiHf8klCCc4?autoplay=1&mute-1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                               
                                   </div>
                                   
                               
