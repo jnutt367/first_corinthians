@@ -48,10 +48,10 @@ export default function Home() {
        </a>
 
         
-      <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+      <a href="https://cash.app/$JNutt367">
               <Image className={styles.arrow}
-                                src="/upward_pointing.webp"
-                                alt="Home"
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
                                 height={75}
                                 width={90}
                                 priority
