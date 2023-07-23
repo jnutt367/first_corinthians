@@ -520,7 +520,7 @@ Final Greetings
 
             Paul explains, the TIME of the 2nd coming of Jesus is unkown, & praises Thessalonica's christians for not giving up their faith, in spite of "Extreme sufferring"  
 </p>                                                      
-                  <div className={styles.nav}>           
+                  <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/">
              <Image 
                                 src="/previous.webp"
@@ -560,7 +560,7 @@ Final Greetings
                               
         <div className={styles.grid2}>
           <div className={styles.card2}>
-           <h2  className={styles.chapter}>I Thessalonians Chapter I</h2>
+           <h2  className={styles.chapter2}>I Thessalonians Chapter I</h2>
             <p> 
 
 1 Paul, Silas and Timothy,
@@ -578,7 +578,7 @@ Thanksgiving for the Thessalonians’ Faith
           </div>
 
           <div className={styles.card2}>
-            <h2 className={styles.chapter}>I Thessalonians Chapter II</h2>
+            <h2 className={styles.chapter2}>I Thessalonians Chapter II</h2>
             <p> 
                           Paul’s Ministry in Thessalonica
                             2 You know, brothers and sisters, that our visit to you was not without results. 2 We had previously suffered and been treated outrageously in Philippi, as you know, but with the help of our God we dared to tell you his gospel in the face of strong opposition. 3 For the appeal we make does not spring from error or impure motives, nor are we trying to trick you. 4 On the contrary, we speak as those approved by God to be entrusted with the gospel. We are not trying to please people but God, who tests our hearts. 5 You know we never used flattery, nor did we put on a mask to cover up greed—God is our witness. 6 We were not looking for praise from people, not from you or anyone else, even though as apostles of Christ we could have asserted our authority. 7 Instead, we were like young children[a] among you.
@@ -596,7 +596,7 @@ Thanksgiving for the Thessalonians’ Faith
           <div
             className={styles.card2}
           >
-            <h2 className={styles.chapter}>I Thessalonians Chapter III </h2>
+            <h2 className={styles.chapter2}>I Thessalonians Chapter III </h2>
             <p>
                     3 So when we could stand it no longer, we thought it best to be left by ourselves in Athens. 2 We sent Timothy, who is our brother and co-worker in God’s service in spreading the gospel of Christ, to strengthen and encourage you in your faith, 3 so that no one would be unsettled by these trials. For you know quite well that we are destined for them. 4 In fact, when we were with you, we kept telling you that we would be persecuted. And it turned out that way, as you well know. 5 For this reason, when I could stand it no longer, I sent to find out about your faith. I was afraid that in some way the tempter had tempted you and that our labors might have been in vain.
                     
@@ -609,7 +609,7 @@ Thanksgiving for the Thessalonians’ Faith
 
           <div className={styles.card2}
           >
-            <h2 className={styles.chapter}>I Thessalonians Chapter IV </h2>
+            <h2 className={styles.chapter2}>I Thessalonians Chapter IV </h2>
             <p>
        Living to Please God
                         4 As for other matters, brothers and sisters, we instructed you how to live in order to please God, as in fact you are living. Now we ask you and urge you in the Lord Jesus to do this more and more. 2 For you know what instructions we gave you by the authority of the Lord Jesus.
@@ -624,7 +624,7 @@ Thanksgiving for the Thessalonians’ Faith
           </div>
           <div className={styles.card2}
           >
-            <h2 className={styles.chapter}>I Thessalonians Chapter V</h2>
+            <h2 className={styles.chapter2}>I Thessalonians Chapter V</h2>
             <p> 5 Now, brothers and sisters, about times and dates we do not need to write to you, 2 for you know very well that the day of the Lord will come like a thief in the night. 3 While people are saying, “Peace and safety,” destruction will come on them suddenly, as labor pains on a pregnant woman, and they will not escape.
 
                       4 But you, brothers and sisters, are not in darkness so that this day should surprise you like a thief. 5 You are all children of the light and children of the day. We do not belong to the night or to the darkness. 6 So then, let us not be like others, who are asleep, but let us be awake and sober. 7 For those who sleep, sleep at night, and those who get drunk, get drunk at night. 8 But since we belong to the day, let us be sober, putting on faith and love as a breastplate, and the hope of salvation as a helmet. 9 For God did not appoint us to suffer wrath but to receive salvation through our Lord Jesus Christ. 10 He died for us so that, whether we are awake or asleep, we may live together with him. 11 Therefore encourage one another and build each other up, just as in fact you are doing.
