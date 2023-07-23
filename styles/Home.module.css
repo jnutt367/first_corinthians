@@ -316,7 +316,7 @@
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;   
-
+}
 .h2 {
     background-image: none;
     opacity: 0.9;
@@ -383,6 +383,27 @@
     padding-top: 25px;
     padding-bottom: 5px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
+.chapter2 {
+
+    background-color: #37ADA2;
+    color: white;
+    opacity: 0.8;
+    opacity: 1;
+    position: sticky;
+    z-index: 1;
+    width: 100%;
+    font-weight: 200;
+    text-align: center;
+    top: 0px;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
+
+.nav2 {
+    background-color: #37ADA2;
 }
 
 .card:hover,
