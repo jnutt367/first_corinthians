@@ -384,12 +384,11 @@
     display: inline;
     color: black;
     opacity: 1;
-    border: 6px solid white;
+    border: 6px solid black;
     background-image: url(/paper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
-    background-color: white;
     overflow: scroll;
     font-family: monospace;
 }
