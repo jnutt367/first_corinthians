@@ -507,8 +507,8 @@ Final Greetings
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/thessalonians.png"
-                                                    alt="herp image for Thessalonians"
+                                                    src="/thess_hero.png"
+                                                    alt="hero image for Thessalonians"
                                                     height={900}
                                                     width={2000}
                                                     priority
