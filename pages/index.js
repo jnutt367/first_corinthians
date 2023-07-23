@@ -503,12 +503,12 @@ Final Greetings
                     <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         <h1 className={styles.title}>
-       I CORINTHIANS
+       I THESSALONIANS
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/corinthians.png"
-                                                    alt="blood red wordle"
+                                                    src="/thessalonians.png"
+                                                    alt="herp image for Thessalonians"
                                                     height={900}
                                                     width={2000}
                                                     priority
@@ -554,7 +554,7 @@ Final Greetings
          
                </div>
                <div className={styles.iframe}> 
- <iframe width="100%" height="315" src="https://www.youtube.com/embed/yiHf8klCCc4?autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                               
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/No7Nq6IX23c?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                         
                                   </div>
                                   
                               
