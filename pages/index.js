@@ -558,8 +558,8 @@ Final Greetings
                                   </div>
                                   
                               
-        <div className={styles.grid}>
-          <div className={styles.card}>
+        <div className={styles.grid2}>
+          <div className={styles.card2}>
            <h2  className={styles.chapter}>I Thessalonians Chapter I</h2>
             <p> 
 
@@ -577,7 +577,7 @@ Thanksgiving for the Thessalonians’ Faith
   </p>
           </div>
 
-          <div className={styles.card}>
+          <div className={styles.card2}>
             <h2 className={styles.chapter}>I Thessalonians Chapter II</h2>
             <p> 
                           Paul’s Ministry in Thessalonica
@@ -594,7 +594,7 @@ Thanksgiving for the Thessalonians’ Faith
           </div>
 
           <div
-            className={styles.card}
+            className={styles.card2}
           >
             <h2 className={styles.chapter}>I Thessalonians Chapter III </h2>
             <p>
@@ -607,7 +607,7 @@ Thanksgiving for the Thessalonians’ Faith
                     </p>
           </div>
 
-          <div className={styles.card}
+          <div className={styles.card2}
           >
             <h2 className={styles.chapter}>I Thessalonians Chapter IV </h2>
             <p>
@@ -622,7 +622,7 @@ Thanksgiving for the Thessalonians’ Faith
                         13 Brothers and sisters, we do not want you to be uninformed about those who sleep in death, so that you do not grieve like the rest of mankind, who have no hope. 14 For we believe that Jesus died and rose again, and so we believe that God will bring with Jesus those who have fallen asleep in him. 15 According to the Lord’s word, we tell you that we who are still alive, who are left until the coming of the Lord, will certainly not precede those who have fallen asleep. 16 For the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet call of God, and the dead in Christ will rise first. 17 After that, we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air. And so we will be with the Lord forever. 18 Therefore encourage one another with these words.
   </p>
           </div>
-          <div className={styles.card}
+          <div className={styles.card2}
           >
             <h2 className={styles.chapter}>I Thessalonians Chapter V</h2>
             <p> 5 Now, brothers and sisters, about times and dates we do not need to write to you, 2 for you know very well that the day of the Lord will come like a thief in the night. 3 While people are saying, “Peace and safety,” destruction will come on them suddenly, as labor pains on a pregnant woman, and they will not escape.
@@ -644,7 +644,7 @@ Thanksgiving for the Thessalonians’ Faith
   
                     </p>
           </div>
-          <div className={styles.card}
+          <div className={styles.card2}
           >
             <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
