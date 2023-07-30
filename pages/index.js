@@ -541,7 +541,7 @@ Final Greetings
                                 priority
                               /> 
        </a>
-         <a href="https://second-corinthians.vercel.app/">
+         <a href="https://second-corinthians.vercel.app/#second_thessalonians">
            <Image 
                                 src="/next.webp"
                                 alt="next"
