@@ -521,7 +521,7 @@ Final Greetings
             Paul explains, the TIME of the 2nd coming of Jesus is unkown, & praises Thessalonica's christians for not giving up their faith, in spite of "Extreme sufferring"  
 </p>                                                      
                   <div className={styles.nav2}>           
-      <a href="https://romans-five.vercel.app/">
+      <a href="https://colossians.vercel.app/">
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
