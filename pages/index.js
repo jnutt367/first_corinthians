@@ -522,6 +522,7 @@ Final Greetings
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://colossians.vercel.app/">
+  <p>Previous book</p>                                                      
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
@@ -533,6 +534,7 @@ Final Greetings
 
         
       <a href="https://cash.app/$JNutt367">
+                                  <p>For giving</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
@@ -542,7 +544,9 @@ Final Greetings
                               /> 
        </a>
          <a href="https://second-corinthians.vercel.app/#second_thessalonians">
-           <Image 
+                                    <p>Next book</p>
+                                  
+                      <Image 
                                 src="/next.webp"
                                 alt="next"
                                  height={75}
