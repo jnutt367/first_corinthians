@@ -283,9 +283,8 @@
 
 .nav a:hover {
     scale: 1.1;
-    background-color: black;
+    color: gold;
     opacity: 0.8;
-    border: 2px dotted whitesmoke;
     border-radius: 50%;
 } 
 .button {
