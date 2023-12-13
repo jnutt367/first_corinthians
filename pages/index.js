@@ -9,6 +9,12 @@ export default function Home() {
         <title>Paul's first Letter to the Church in Corinth & Thessalonica</title>
         <meta name="description" content="Letter to the Church in Corinth & Thessalonica" />
         <link rel="icon" href="/favicon.ico" />
+
+ <link
+          href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap, Montserrat,Roboto"
+          rel="stylesheet"
+        />       
+            
       </Head>
  
       <main className={styles.main}>
@@ -21,48 +27,47 @@ export default function Home() {
         <h1 className={styles.title}>
        I CORINTHIANS
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/corinthians.png"
-                                                    alt="blood red wordle"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
-                          
-
-                        </div>
+          <div className={styles.iframe1}>
+                           
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/UcCrVUFQd74?si=DiIzRybWSpaljnaY&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            
+            </div>
     <p className={styles.parables}>
 
-               Christians in Corinth were being divisive & choosing sides. Paul wrote them to scold them for sinful living & teach how Christians should be acting. In love.                                     
+               Christians in Corinth were being divisive. Paul scolded them for sinful living & tells Christians should be acting in love.                                     
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://romans-five.vercel.app/">
+
+            <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+
+<p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://second-corinthians.vercel.app/">
+<p>Next</p>                                  
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -70,7 +75,7 @@ export default function Home() {
          
                </div>
                <div className={styles.iframe}> 
- <iframe width="100%" height="315" src="https://www.youtube.com/embed/yiHf8klCCc4?autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                               
+ <iframe width="100%" height="315" src="https://www.youtube.com/embed/yiHf8klCCc4&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                               
                                   </div>
                                   
                               
@@ -505,52 +510,46 @@ Final Greetings
         <h1 className={styles.title}>
        I THESSALONIANS
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/thess_hero.png"
-                                                    alt="hero image for Thessalonians"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
+          <div className={styles.iframe1}>
+                        <iframe width="100%" height="300" src="https://www.youtube.com/embed/UcCrVUFQd74?si=DiIzRybWSpaljnaY&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                           
 
                         </div>
     <p className={styles.parables}>
 
-            Paul explains, the TIME of the 2nd coming of Jesus is unkown, & praises Thessalonica's christians for not giving up their faith, in spite of "Extreme sufferring"  
+            Paul praises Thessalonica's christians for not giving up their faith, in spite of "Extreme sufferring"  
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://colossians.vercel.app/">
-  <p>Previous book</p>                                                      
+  <p>Prev</p>                                                      
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
-                                  <p>For giving</p>
+                                  <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://second-corinthians.vercel.app/#second_thessalonians">
-                                    <p>Next book</p>
+                                    <p>Next</p>
                                   
                       <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
