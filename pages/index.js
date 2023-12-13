@@ -518,7 +518,7 @@ Final Greetings
                         </div>
     <p className={styles.parables}>
 
-            Paul praises Thessalonica's christians for not giving up their faith, in spite of "Extreme sufferring"  
+            "you welcomed the message in the midst of severe suffering with the joy given by the Holy Spirit."
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://colossians.vercel.app/">
