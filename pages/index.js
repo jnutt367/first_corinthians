@@ -34,7 +34,8 @@ export default function Home() {
             </div>
     <p className={styles.parables}>
 
-               Christians in Corinth were being divisive. Paul scolded them for sinful living & tells Christians should be acting in love.                                     
+               “I will destroy the wisdom of the wise;
+    the intelligence of the intelligent I will frustrate.”                        
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://romans-five.vercel.app/">
