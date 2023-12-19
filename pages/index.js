@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Paul's first Letter to the Church in Corinth & Thessalonica</title>
-        <meta name="description" content="Letter to the Church in Corinth & Thessalonica" />
+        <title>The Word of God Risen: Old Testament part 1</title>
+        <meta name="description" content="The bible: Old Testament: Genesis through Jeremiah." />
         <link rel="icon" href="/favicon.ico" />
 
  <link
